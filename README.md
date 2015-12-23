@@ -3,13 +3,13 @@ Completed Coursework for edX DEV204X
 
 Coursework includes...
 
-* Use basic programming data types in C#
-* Use decision statements and repetition
-* Perform object-oriented programming in C#
-* Create and use methods
-* Use complex data structures and collections
+* Use of basic programming data types in C#
+* Use of bdecision statements and repetition
+* Performing object-oriented programming in C#
+* Creating and using methods
+* Useing complex data structures and collections
 * Work with Generics
-* Handle events and write delegates
+* Handling events and writing delegates
 * Query data using Language Integrated Query (LINQ)
-* Use threading, multitasking, and parallel programming
-* Program asynchronously
+* Use of threading, multitasking, and parallel programming
+* Programming asynchronously
