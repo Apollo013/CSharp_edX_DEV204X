@@ -1,0 +1,5 @@
+C:\Courses\edx\DEV204x\DEV204x\Module06\bin\Debug\Module06.exe.config
+C:\Courses\edx\DEV204x\DEV204x\Module06\bin\Debug\Module06.exe
+C:\Courses\edx\DEV204x\DEV204x\Module06\bin\Debug\Module06.pdb
+C:\Courses\edx\DEV204x\DEV204x\Module06\obj\Debug\Module06.exe
+C:\Courses\edx\DEV204x\DEV204x\Module06\obj\Debug\Module06.pdb

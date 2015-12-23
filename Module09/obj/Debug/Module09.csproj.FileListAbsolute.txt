@@ -1,0 +1,14 @@
+C:\Courses\edx\DEV204x\DEV204x\Module09\bin\Debug\Module09.exe.config
+C:\Courses\edx\DEV204x\DEV204x\Module09\bin\Debug\Module09.exe
+C:\Courses\edx\DEV204x\DEV204x\Module09\bin\Debug\Module09.pdb
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\Module09.csprojResolveAssemblyReference.cache
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\MainWindow.g.cs
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\App.g.cs
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\Module09_MarkupCompile.cache
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\Module09_MarkupCompile.lref
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\MainWindow.baml
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\Module09.g.resources
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\Module09.Properties.Resources.resources
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\Module09.csproj.GenerateResource.Cache
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\Module09.exe
+C:\Courses\edx\DEV204x\DEV204x\Module09\obj\Debug\Module09.pdb

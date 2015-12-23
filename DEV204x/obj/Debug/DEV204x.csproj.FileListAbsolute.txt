@@ -1,0 +1,6 @@
+C:\Courses\edx\DEV204x\DEV204x\DEV204x\bin\Debug\DEV204x.exe.config
+C:\Courses\edx\DEV204x\DEV204x\DEV204x\bin\Debug\DEV204x.exe
+C:\Courses\edx\DEV204x\DEV204x\DEV204x\bin\Debug\DEV204x.pdb
+C:\Courses\edx\DEV204x\DEV204x\DEV204x\obj\Debug\DEV204x.csprojResolveAssemblyReference.cache
+C:\Courses\edx\DEV204x\DEV204x\DEV204x\obj\Debug\DEV204x.exe
+C:\Courses\edx\DEV204x\DEV204x\DEV204x\obj\Debug\DEV204x.pdb

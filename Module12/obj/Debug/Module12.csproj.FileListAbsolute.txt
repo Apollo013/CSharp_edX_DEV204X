@@ -1,0 +1,13 @@
+C:\Courses\edx\DEV204x\DEV204x\Module12\bin\Debug\Module12.exe.config
+C:\Courses\edx\DEV204x\DEV204x\Module12\bin\Debug\Module12.exe
+C:\Courses\edx\DEV204x\DEV204x\Module12\bin\Debug\Module12.pdb
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\MainWindow.g.cs
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\App.g.cs
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\Module12_MarkupCompile.cache
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\Module12_MarkupCompile.lref
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\MainWindow.baml
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\Module12.g.resources
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\Module12.Properties.Resources.resources
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\Module12.csproj.GenerateResource.Cache
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\Module12.exe
+C:\Courses\edx\DEV204x\DEV204x\Module12\obj\Debug\Module12.pdb
