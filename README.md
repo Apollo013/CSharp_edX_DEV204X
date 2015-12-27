@@ -1,6 +1,10 @@
 # CSharp_edX_DEV204X
 Completed Coursework for edX DEV204X
 
+https://courses.edx.org/courses/course-v1:Microsoft+DEV204x+1T2016/info
+
+Built using VS2015 & Windows10
+
 Coursework includes...
 
 * Use of basic programming data types in C#
