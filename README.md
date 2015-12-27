@@ -11,8 +11,8 @@ Coursework includes...
 * Use of decision statements and repetition
 * Performing object-oriented programming in C#
 * Creating and using methods
-* Useing complex data structures and collections
-* Work with Generics
+* Using complex data structures and collections
+* Working with Generics
 * Handling events and writing delegates
 * Query data using Language Integrated Query (LINQ)
 * Use of threading, multitasking, and parallel programming
