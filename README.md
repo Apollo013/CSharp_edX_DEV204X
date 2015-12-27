@@ -8,7 +8,7 @@ Built using VS2015 & Windows10
 Coursework includes...
 
 * Use of basic programming data types in C#
-* Use of bdecision statements and repetition
+* Use of decision statements and repetition
 * Performing object-oriented programming in C#
 * Creating and using methods
 * Useing complex data structures and collections
