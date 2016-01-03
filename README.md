@@ -3,9 +3,9 @@ Completed Coursework for edX DEV204X
 
 https://courses.edx.org/courses/course-v1:Microsoft+DEV204x+1T2016/info
 
-Built using VS2015 & Windows10
+Developed using VS2015 & Windows10
 
-Coursework includes...
+##Course Content
 
 * Use of basic programming data types in C#
 * Use of decision statements and repetition
