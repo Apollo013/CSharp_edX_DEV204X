@@ -1,0 +1,14 @@
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\bin\Debug\TasksWpf.exe.config
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\bin\Debug\TasksWpf.exe
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\bin\Debug\TasksWpf.pdb
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\TasksWpf.csprojResolveAssemblyReference.cache
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\MainWindow.g.cs
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\App.g.cs
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\TasksWpf_MarkupCompile.cache
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\TasksWpf_MarkupCompile.lref
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\MainWindow.baml
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\TasksWpf.g.resources
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\TasksWpf.Properties.Resources.resources
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\TasksWpf.csproj.GenerateResource.Cache
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\TasksWpf.exe
+C:\Courses\edx\DEV204x\DEV204x\TasksWpf\obj\Debug\TasksWpf.pdb

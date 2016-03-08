@@ -1,0 +1,1 @@
+C:\Courses\edx\DEV204x\DEV204x\SilverlightApplication2.Web\SilverlightApplication2.Web.csproj,635860310517857841,Properties\AssemblyInfo.cs,

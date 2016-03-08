@@ -1,0 +1,6 @@
+C:\Courses\edx\DEV204x\DEV204x\Tasks\bin\Debug\Tasks.exe.config
+C:\Courses\edx\DEV204x\DEV204x\Tasks\bin\Debug\Tasks.exe
+C:\Courses\edx\DEV204x\DEV204x\Tasks\bin\Debug\Tasks.pdb
+C:\Courses\edx\DEV204x\DEV204x\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+C:\Courses\edx\DEV204x\DEV204x\Tasks\obj\Debug\Tasks.exe
+C:\Courses\edx\DEV204x\DEV204x\Tasks\obj\Debug\Tasks.pdb

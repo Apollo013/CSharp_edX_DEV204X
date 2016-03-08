@@ -1,0 +1,6 @@
+C:\Courses\edx\DEV204x\DEV204x\Grading\bin\Debug\Grading.exe.config
+C:\Courses\edx\DEV204x\DEV204x\Grading\bin\Debug\Grading.exe
+C:\Courses\edx\DEV204x\DEV204x\Grading\bin\Debug\Grading.pdb
+C:\Courses\edx\DEV204x\DEV204x\Grading\obj\Debug\Grading.exe
+C:\Courses\edx\DEV204x\DEV204x\Grading\obj\Debug\Grading.pdb
+C:\Courses\edx\DEV204x\DEV204x\Grading\obj\Debug\Grading.csprojResolveAssemblyReference.cache

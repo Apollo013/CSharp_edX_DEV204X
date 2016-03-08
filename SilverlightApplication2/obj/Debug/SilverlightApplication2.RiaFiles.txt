@@ -1,0 +1,2 @@
+C:\Courses\edx\DEV204x\DEV204x\SilverlightApplication2
+Generated_Code\SilverlightApplication2.Web.g.cs
