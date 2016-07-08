@@ -3,7 +3,11 @@ Completed Coursework for edX DEV204X
 
 https://courses.edx.org/courses/course-v1:Microsoft+DEV204x+1T2016/info
 
-Developed using VS2015 & Windows10
+---
+
+Developed using VS2015
+
+---
 
 ##Course Content
 
